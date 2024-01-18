@@ -3,3 +3,5 @@ Getting started with socket programming - https://www.oracle.com/webfolder/techn
 Advanced sockets java - https://rollbar.com/blog/java-socketexception/
 Java Tutorials Sockets Oracle - https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html
 Knock knock jokes server client practice - https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
+Service Name and Transport Protocol Port Number Registry - https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=2
+(Example) Java server/client - https://www.digitalocean.com/community/tutorials/java-socket-programming-server-client
