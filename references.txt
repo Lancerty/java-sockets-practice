@@ -1,0 +1,5 @@
+Java Sockets Documentation - https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html
+Getting started with socket programming - https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/socketprogramming/socketprogram.html
+Advanced sockets java - https://rollbar.com/blog/java-socketexception/
+Java Tutorials Sockets Oracle - https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html
+Knock knock jokes server client practice - https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
