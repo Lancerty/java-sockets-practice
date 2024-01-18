@@ -5,3 +5,9 @@ Java Tutorials Sockets Oracle - https://docs.oracle.com/javase/tutorial/networki
 Knock knock jokes server client practice - https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
 Service Name and Transport Protocol Port Number Registry - https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=2
 (Example) Java server/client - https://www.digitalocean.com/community/tutorials/java-socket-programming-server-client
+
+
+Group 
+- Data manipulation
+- Propose an app, use CRUD + other relevant operations
+- 3 applications
